@@ -1,4 +1,4 @@
-# SENT
+# SENT for Arduino
 SENT (Single Edge Nibble Transmision).
 The codes I published are for my engineering degree exam. They represent the SENT communication between two Arduino Uno boards.
 The first board has the role of transciever (ECU) and the second board as a sensor.
